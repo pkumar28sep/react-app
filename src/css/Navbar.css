@@ -1,0 +1,20 @@
+.NavBar-Contaner ul{
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+
+    justify-content: space-around;
+    background-color: #2196f3;
+}
+
+.NavBar-Contaner ul li{
+    text-shadow: 1px 1px black;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    
+    text-align: center;
+    width:10vw;
+}
